@@ -21,7 +21,7 @@ export const Carousel = () => {
             </div>
           </div>
 
-          <div className="carousel-item active">
+          <div className="carousel-item">
             <div className="row d-flex justify-content-center align-item-center">
               <ReturnBook />
               <ReturnBook />
@@ -29,7 +29,7 @@ export const Carousel = () => {
             </div>
           </div>
 
-          <div className="carousel-item active">
+          <div className="carousel-item">
             <div className="row d-flex justify-content-center align-item-center">
               <ReturnBook />
               <ReturnBook />
